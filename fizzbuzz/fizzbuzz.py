@@ -51,4 +51,4 @@ if __name__ == "__main__":
     assert(fizzbuzz(10) == "Buzz")
     assert(fizzbuzz(15) == "Fizzbuzz")
     print("All Test passed!")
-    print("-"*32)
+    print("-" * 32)
